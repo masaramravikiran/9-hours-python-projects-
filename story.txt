@@ -1,0 +1,5 @@
+My friend <name> and I went to the zoo. We saw a <adjective> <animal> that <verb> <adverb>. It was in a <adjective> <place>. The zookeeper said not to feed it too much because it could become <adjective>.
+
+We also saw <plural_noun> that loved to <verb>. I gave them <food> and they gave me a <object>. The highlight was a <color> <animal> doing tricks. It was so <adjective> that everyone <verb> <adverb>.
+
+We had a great time and decided to <verb> again soon.
